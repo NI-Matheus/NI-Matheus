@@ -3,7 +3,7 @@
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me devindamaking@gmail.com
 
-<html>
+
     <div>
         <a href="https://github.com/NI-Matheus">
         <img
@@ -22,4 +22,3 @@
         />
     </div>
 
-</html>
